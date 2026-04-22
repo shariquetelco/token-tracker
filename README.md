@@ -86,6 +86,16 @@ Token counts match official APIs within 5% margin for most use cases.
 
 Chrome Web Store approval is pending. Use this direct download in the meantime!
 
+Installation:
+1. **Download and Extract** ZIP
+2. **Go to chrome://extensions**
+3. **Enable Developer Mode**
+4. **Load unpacked**
+5. **Select folder**
+
+Upload ZIP
+Click publish
+
 ## 📥 Installation
 
 ### Chrome / Edge / Brave - EXTENSIONS
