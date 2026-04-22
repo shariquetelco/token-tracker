@@ -145,6 +145,8 @@ All calculations happen **client-side** - your data never leaves your browser.
 
 [![Watch Demo](https://img.youtube.com/vi/QRdAPWxkmZ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=QRdAPWxkmZ8)
 
+*Click to watch the full installation and usage demo*
+
 ---
 
 ## 🚀 Roadmap
