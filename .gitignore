@@ -1,0 +1,18 @@
+# Source code (private)
+content.js
+interceptor.js
+tokenizer.js
+providers.js
+background.js
+popup.js
+popup.html
+
+# Node modules
+node_modules/
+
+# Keep only these
+!manifest.json
+!icons/
+!README.md
+!screenshots/
+!LICENSE
