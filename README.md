@@ -80,9 +80,15 @@ Token counts match official APIs within 5% margin for most use cases.
 
 ---
 
+## 📦 Quick Install (While Chrome Web Store Pending)
+
+**[⬇️ Download Latest Release](https://github.com/shariquetelco/token-tracker/releases/latest/download/token-track-v1.0.0.zip)**
+
+Chrome Web Store approval is pending. Use this direct download in the meantime!
+
 ## 📥 Installation
 
-### Chrome / Edge / Brave
+### Chrome / Edge / Brave - EXTENSIONS
 
 1. **Download** this repository as ZIP (Code → Download ZIP)
 2. **Extract** the ZIP file to a permanent location
