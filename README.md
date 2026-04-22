@@ -143,7 +143,7 @@ All calculations happen **client-side** - your data never leaves your browser.
 
 ## 📹 Video Tutorial
 
-*(Coming soon - Step-by-step installation and usage guide)*
+[![Watch Demo](https://img.youtube.com/vi/QRdAPWxkmZ8/maxresdefault.jpg)](https://www.youtube.com/watch?v=QRdAPWxkmZ8)
 
 ---
 
