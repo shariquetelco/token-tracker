@@ -1,22 +1,70 @@
-\# Privacy Policy — Token Track
+\# Privacy Policy for Token Track
 
 
 
-Token Track does not collect, store, or transmit any personal data.
+\*\*Last Updated:\*\* April 22, 2026
 
 
 
-All processing happens locally in the user's browser. The extension reads visible content from supported AI platforms (Claude, ChatGPT, Gemini, Grok, Perplexity) only to display token usage and related metrics.
+\## Data Collection
 
 
 
-No data is sent to external servers. No tracking, analytics, or third-party sharing is performed.
+Token Track does \*\*not collect, store, or transmit any user data\*\*.
 
 
 
-The extension does not access sensitive data such as passwords, financial information, or personal identifiers.
+\## What We Access
 
 
 
-Contact: eshariq.am@gmail.com
+The extension accesses:
+
+\- Page content on supported AI platforms (Claude.ai, ChatGPT.com, Gemini.google.com, Grok.com, Perplexity.ai)
+
+\- API responses from these platforms (to calculate token usage)
+
+
+
+\## What We Do NOT Do
+
+
+
+\- ❌ No data collection
+
+\- ❌ No external servers
+
+\- ❌ No analytics or tracking
+
+\- ❌ No cookies
+
+\- ❌ No user identification
+
+\- ❌ No data sharing with third parties
+
+
+
+\## How It Works
+
+
+
+All token calculations happen \*\*locally in your browser\*\*. Nothing is sent to external servers.
+
+
+
+\## Permissions
+
+
+
+\- \*\*Host permissions\*\*: Required to inject the token counter widget on supported websites
+
+\- \*\*Content scripts\*\*: Required to read page content and calculate tokens
+
+
+
+\## Contact
+
+
+
+Questions? Open an issue on \[GitHub](https://github.com/shariquetelco/token-tracker/issues)
 
